@@ -5,5 +5,5 @@
   <value name="node_subtype">unknown</value>
   <value name="node_nsName">CustomerData</value>
   <value name="node_pkg">CustomerData</value>
-  <value name="is_public">false</value>
+  <value name="is_public">true</value>
 </Values>
