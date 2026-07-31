@@ -23,6 +23,7 @@
       <value name="is_global">false</value>
       <array name="rec_fields" type="record" depth="1">
       </array>
+      <value name="rec_closed">false</value>
       <value name="modifiable">true</value>
     </record>
     <record name="sig_out" javaclass="com.wm.util.Values">
@@ -64,6 +65,7 @@
           <value name="rec_ref">CustomerData.docs:Customer</value>
         </record>
       </array>
+      <value name="rec_closed">false</value>
       <value name="modifiable">true</value>
     </record>
   </record>
@@ -118,5 +120,5 @@
   <value name="pipeline_option">1</value>
   <null name="originURI"/>
   <value name="modifiable">true</value>
-  <value name="is_public">false</value>
+  <value name="is_public">true</value>
 </Values>

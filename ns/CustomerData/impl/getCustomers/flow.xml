@@ -43,6 +43,7 @@
         <value name="is_global">false</value>
       </record>
     </array>
+    <value name="rec_closed">false</value>
     <value name="modifiable">true</value>
   </record>
 </Values>
@@ -61,6 +62,7 @@
     <value name="is_global">false</value>
     <array name="rec_fields" type="record" depth="1">
     </array>
+    <value name="rec_closed">false</value>
     <value name="modifiable">true</value>
   </record>
 </Values>
@@ -175,6 +177,7 @@
         <value name="modifiable">true</value>
       </record>
     </array>
+    <value name="rec_closed">false</value>
     <value name="modifiable">true</value>
   </record>
 </Values>
@@ -193,6 +196,7 @@
     <value name="is_global">false</value>
     <array name="rec_fields" type="record" depth="1">
     </array>
+    <value name="rec_closed">false</value>
     <value name="modifiable">true</value>
   </record>
 </Values>
@@ -234,10 +238,12 @@
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
         <value name="is_soap_array_encoding_used">false</value>
+        <value name="rec_closed">false</value>
         <value name="modifiable">true</value>
         <value name="rec_ref">CustomerData.utils.cache:CacheOutput</value>
       </record>
     </array>
+    <value name="rec_closed">false</value>
     <value name="modifiable">true</value>
   </record>
 </Values>
@@ -277,6 +283,7 @@
         <value name="modifiable">true</value>
       </record>
     </array>
+    <value name="rec_closed">false</value>
     <value name="modifiable">true</value>
   </record>
 </Values>
@@ -317,10 +324,12 @@
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
         <value name="is_soap_array_encoding_used">false</value>
+        <value name="rec_closed">false</value>
         <value name="modifiable">true</value>
         <value name="rec_ref">CustomerData.docs:Customer</value>
       </record>
     </array>
+    <value name="rec_closed">false</value>
     <value name="modifiable">true</value>
   </record>
 </Values>
@@ -349,10 +358,12 @@
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
         <value name="is_soap_array_encoding_used">false</value>
+        <value name="rec_closed">false</value>
         <value name="modifiable">true</value>
         <value name="rec_ref">CustomerData.utils.cache:CacheOutput</value>
       </record>
     </array>
+    <value name="rec_closed">false</value>
     <value name="modifiable">true</value>
   </record>
 </Values>
